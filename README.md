@@ -1,4 +1,4 @@
-# Hi, I'm Shreshtha Verma 👋
+# Hi, I'm Shreshtha Verma👋
 
 ### Aspiring Data Scientist | Analytics Enthusiast | Problem Solver
 
