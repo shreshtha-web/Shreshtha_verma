@@ -56,8 +56,8 @@ This repository contains projects showcasing my work in:
 
 I'm open to collaboration, feedback, and opportunities to learn and grow. Feel free to explore my projects and reach out!
 
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Email:** [Your Email]
+- **LinkedIn:** [Shreshtha Verma](https://www.linkedin.com/in/shreasthverma)
+- **Email:** shreasth2005@gmail.com
 - **Portfolio:** [Your Portfolio Website]
 
 ---
